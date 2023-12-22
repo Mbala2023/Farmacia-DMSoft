@@ -1,5 +1,7 @@
 # Farm-cia-DMSof projecto desktop
 
+Este projecto consiste no controle de stock de medicamentos e das vendas dos mesmos
+
 Liguangens utilizadas
 
 C#, SQL Server
