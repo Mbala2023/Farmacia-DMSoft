@@ -11,3 +11,5 @@ plataformas: .Net 4.0, Windows Forms Aplications
 Modo de Execuçã0:
 
 Instale o Report View, .Net
+
+Farmacia1 é a base de Dados
